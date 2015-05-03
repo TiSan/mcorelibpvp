@@ -1,0 +1,15 @@
+MCoreLib PvP Pack - Die Erweiterung der geliebten Bibliothek für PvP-Plugins
+~ Development by MCfrek99 and TiSan
+
+                 >~ Concept Paper ~<
+
+
+>>> Noch zu erledigen:
+
+- Etwas Main-Thread-ähnliches mit States und einem Listener?
+- 
+
+Erledigt:
+
+- Teams
+- Kits 

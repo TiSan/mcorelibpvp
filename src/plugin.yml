@@ -1,0 +1,6 @@
+name: MCoreLibPvPPack
+main: de.timc.mcorelib.pvp.plugin.MCoreLibPVPPlugin
+version: 0.1
+description: MCoreLibPvPPack
+depend: [MCoreLib]
+commands:
